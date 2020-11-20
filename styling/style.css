@@ -1,4 +1,8 @@
-
+.poem
+{
+    margin-left: .5in;
+    font-style: italic;
+}
 table {
     border: 6px;
     width: 660px;
