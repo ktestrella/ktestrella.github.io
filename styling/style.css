@@ -1,0 +1,81 @@
+
+table {
+    border: 6px;
+    width: 660px;
+    border-style: solid;
+    border-color: #444444;
+    table-layout: fixed;
+    
+}
+
+td {
+    padding: 3px;  
+    vertical-align: top;
+    text-align:center;    
+}
+
+.hours {
+    width:60px;
+}
+
+.weekday {
+    width: 120px;
+}
+
+.lifting {
+    background-color: orange;
+    border-color:orange ;
+    border-width: 2px;
+    border-style: solid;
+    word-wrap:break-word;
+}
+
+.network{
+    background-color:greenyellow;
+    border-color: greenyellow;
+    border-width: 2px;
+    border-style: solid;
+    word-wrap:break-word;
+}
+
+.mobile {
+    background-color: #FFCCCC;
+    border-color: #FFAAAA;
+    border-width: 2px;
+    border-style: solid;
+    word-wrap:break-word;
+}
+
+.OS
+ {
+    background-color: #AAFFFF;
+    border-color: #88CCCC;
+    border-width: 2px;
+    border-style: solid;
+    word-wrap:break-word;
+}
+
+.practice {
+    background-color: red;
+    border-color: red;
+    border-width: 2px;
+    border-style: solid;
+    word-wrap:break-word;
+}
+.web {
+    background-color:white;
+    border-color: white;
+    border-width: 2px;
+    border-style: solid;
+    word-wrap:break-word;
+}
+
+th  {
+    background-color: #aaaaaa;
+}
+tr:nth-child(even) {
+    background-color: #eeeeee;
+}
+tr:nth-child(odd) {
+    background-color: #dddddd;
+}
