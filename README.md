@@ -5,3 +5,5 @@ The styling elements I decided to do was:
 - styling up my class schedule
 - portit modal
 - sticky footer
+- font
+ 
