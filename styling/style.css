@@ -61,8 +61,8 @@ td {
 }
 
 .mobile {
-    background-color: #FFCCCC;
-    border-color: #FFAAAA;
+    background-color: peachpuff;
+    border-color: peachpuff;
     border-width: 2px;
     border-style: solid;
     word-wrap:break-word;
@@ -70,8 +70,8 @@ td {
 
 .OS
  {
-    background-color: #AAFFFF;
-    border-color: #88CCCC;
+    background-color: turquoise;
+    border-color:turquoise;
     border-width: 2px;
     border-style: solid;
     word-wrap:break-word;
